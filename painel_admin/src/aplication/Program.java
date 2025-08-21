@@ -22,6 +22,7 @@ public class Program {
 		String senhaCorreta = "acessoSistema2025";
 
 		while(tentivas>0){
+			System.out.println();
 			System.out.println("##########################################");
 			System.out.println("Painel Administrativo [Sampaio Tecnologia]");
 			System.out.println("##########################################");
@@ -81,6 +82,9 @@ public class Program {
 								for (Dados emp : list) {
 									System.out.println(emp);
 								}
+								System.out.println("-------------------------------");
+
+								break;
 
 
 				
