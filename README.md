@@ -15,8 +15,7 @@ Ideal para aprendizado de **POO**, **CRUD** e boas práticas de desenvolvimento 
 Essa API permite gerenciar produtos, oferecendo as operações básicas: **listar, criar, atualizar e excluir**.  
 Perfeita para estudos, demonstrações e como base para projetos maiores.
 
-![Exemplo da API](docs/demo.gif)  
-> Substitua o GIF acima pelo seu próprio print ou gravação da API em funcionamento.
+
 
 ---
 
